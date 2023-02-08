@@ -7,7 +7,7 @@
 **Getting Started**: http://aka.ms/pva-vaicc-start
 
 * ***LivePerson Bot-as-a-Proxy Product Feature*** - Create bot-as-a-proxy sample that was Pull-Requested into the official Microsoft Bot Framework samples repo that demonstrates how to use the Bot Framework Handoff APIs and the LivePerson Agent Hub to integrate human agent escalation with the Virtual Assistant Template.  
-**Microsoft Bot Framework Samples Repo**: https://github.com/microsoft/BotBuilder-Samples/tree/main/experimental/handoff-library/csharp_dotnetcore/samples/LivePersonProxyAssistant 
+**Microsoft Bot Framework Samples Repo**: https://bit.ly/LivePerson-Bot-as-Proxy 
 
 * ***Bot Accelerator Workshop*** – This workshop was early work I did to accelerate Bot Framework adoption with enterprise customers and centers around the old Virtual Assistant Template that drove the early days of code-first development with our BF stack  
 **Repo**: http://aka.ms/bot_ws
