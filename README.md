@@ -10,24 +10,24 @@
 **Microsoft Bot Framework Samples Repo**: https://bit.ly/LivePerson-Bot-as-Proxy 
 
 * ***Bot Accelerator Workshop*** – This workshop was early work I did to accelerate Bot Framework adoption with enterprise customers and centers around the old Virtual Assistant Template that drove the early days of code-first development with our BF stack  
-**Repo**: http://aka.ms/bot_ws
+**Repo**: http://aka.ms/bot_ws  
 **Planning Assistance Video**: http://aka.ms/bot_ws_planning
 
 * ***ACS Engagement Hub Sample Application*** – Work as an embedded engineering resource in the ACS Job Router team (Job Router is in private preview) building an ACS Job Router-based PVA Engagement Hub reference application that uses agent escalation to showcase Job Router capabilities.  My role was to build the agent escalation capability through a custom PVA engagement hub implementation.  This reference application will be published in their GA timeframe.  
-**PVA Overview**: https://www.youtube.com/watch?v=ViUba4eBSSI  
+**PVA Overview**: https://bit.ly/ACS-Engagement-Hub-Overview  
 **ACS Overview**: http://aka.ms/ahha  
-**Repo: http**://aka.ms/acshub  
-**Demo: http**://aka.ms/ahv1
+**Repo**: http://aka.ms/acshub  
+**Demo**: http://aka.ms/ahv1
 
 * ***Conversational Apps*** – This is proof-of-concept I created a couple of years ago for what I think is a new category of application.  This is something that I plan to revisit now that .NET MAUI is almost here and we have the new ACS UI for Mobile SDK and the ACS Chat for Bots capability (private preview)  
-Concept – http://aka.ms/capps
+**Concept**: http://aka.ms/capps
 
-* ***Intro to C-AI for Enterprise Customers*** – Created this light-hearted introductory video for enterprise customers when Microsoft first released the Bot Framework.  Conversation AI was a foreign concept back then to most enterprise decision makers
-Intro Video -  http://aka.ms/cai_intro 
+* ***Intro to C-AI for Enterprise Customers*** – Created this light-hearted introductory video for enterprise customers when Microsoft first released the Bot Framework.  Conversation AI was a foreign concept back then to most enterprise decision makers  
+**Intro Video**:  http://aka.ms/cai_intro 
 
-* ***COVID Bot Accelerator*** – This is a Q&A accelerator I create for the Microsoft State & Local OU to help states in the US build COVID Q&A bot quickly
-Repo - https://github.com/managedcoder/slg-covid-bot
+* ***COVID Bot Accelerator*** – This is a Q&A accelerator I create for the Microsoft State & Local OU to help states in the US build COVID Q&A bot quickly  
+**Repo**: https://github.com/managedcoder/slg-covid-bot
 
-* ***Early Snippets for Enterprise Customers*** – This repo captured “how-to’s” for early gaps and rough spots in the Bot Framework when it was first released and those “building blocks” formed the beginning of my accelerator work on the Microsoft Conversational AI stack
-Repo: managedcoder/BotFrameworkAccelerators: Development accelerators for the Microsoft Bot Framework (github.com)
+* ***Early Snippets for Enterprise Customers*** – This repo captured “how-to’s” for early gaps and rough spots in the Bot Framework when it was first released and those “building blocks” formed the beginning of my accelerator work on the Microsoft Conversational AI stack  
+**Repo**: managedcoder/BotFrameworkAccelerators: Development accelerators for the Microsoft Bot Framework (github.com)
 
