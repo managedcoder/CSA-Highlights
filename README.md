@@ -2,7 +2,7 @@
 #### The following are examples of work Russ Williams has done in his role as a Microsoft CSA.  Examples include solution accelerators, product features, sample applications, reference implementations, concept demonstration, and community speaking
 
 * ***Contact Center Solution Accelerator*** - Worked closely with the engineering, marketing, and product management teams from PVA, Bot Framework, and AudioCodes as I created a strategically aligned contact center accelerator that minimizes the time-to-value and maximizes the capability of the resulting contact center solution.  This accelerator has been added to the Data & AI Toolkit used by Microsoft World-wide Industry Solutions group (aka MCS) to drive contact center consulting engagements and there are plans to publish it as a Cloud Adoption Framework (CAF) accelerator for Cloud Solution Architects and Microsoft partners to use in their enterprise engagement work.  
-**Accelerator**: http://aka.ms/pva-vaicc  
+**Accelerator**: [http://aka.ms/pva-vaicc](http://aka.ms/pva-vaicc)  
 **Tour**: http://aka.ms/pva-vaicc-tour  
 **Getting Started**: http://aka.ms/pva-vaicc-start
 
