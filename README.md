@@ -35,6 +35,6 @@
 **Accelerator**: [https://bit.ly/BF-Accelerators](https://bit.ly/BF-Accelerators)
 
 * ***Creative Examples*** - These links give a sense of my creativity in applying a range of technology to create solutions
-**Transform Plexiglas into a touch screen**: http://aka.ms/ktouch
-**Created flight simulator from Kinect Sensor & Bing Maps**: https://bit.ly/FlightKintroller
+**Transform Plexiglas into a touch screen**: [http://aka.ms/ktouch](http://aka.ms/ktouch)
+**Created flight simulator from Kinect Sensor & Bing Maps**: [https://bit.ly/FlightKintroller](https://bit.ly/FlightKintroller)
 
