@@ -34,7 +34,7 @@
 * ***Bot Framework Development Accelerators*** – This repo captured “how-to’s” for early gaps and rough spots in the Bot Framework when it was first released and those “building blocks” formed the beginning of my accelerator work on the Microsoft conversational AI stack  
 **Accelerator**: [https://bit.ly/BF-Accelerators](https://bit.ly/BF-Accelerators)
 
-* ***Creative Examples*** - These links give a sense of my creativity in applying a range of technology to create solutions
+* ***Creative Examples*** - These links give a sense of my creativity in applying a range of technology to create solutions  
 **Transform Plexiglas into a touch screen**: [http://aka.ms/ktouch](http://aka.ms/ktouch)  
 **Created flight simulator from Kinect Sensor & Bing Maps**: [https://bit.ly/FlightKintroller](https://bit.ly/FlightKintroller)
 
